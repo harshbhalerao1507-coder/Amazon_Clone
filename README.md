@@ -27,16 +27,8 @@ A **frontend-only Amazon Clone** built with React.js that mimics Amazon's UI, pr
 ---
 
 
+ll
 
-📁 Project Structure
-Amazon_Clone/
-├── public/             # Static assets
-├── src/
-│   ├── components/     # Reusable UI components
-│   ├── pages/          # Pages (Home, Product, Cart)
-│   └── App.js          # Main React app
-├── package.json         # Project dependencies
-└── README.md
 
 🖥️ Usage
 
