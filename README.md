@@ -26,26 +26,7 @@ A **frontend-only Amazon Clone** built with React.js that mimics Amazon's UI, pr
 
 ---
 
-## ⚡ Installation
 
-1. Clone the repository:
-2. Navigate into the folder:
-
-cd Amazon_Clone
-
-
-3.Install dependencies:
-
-npm install
-
-
-4.Start the development server:
-
-npm start
-
-
-5.Open http://localhost:3000
- in your browser.
 
 📁 Project Structure
 Amazon_Clone/
