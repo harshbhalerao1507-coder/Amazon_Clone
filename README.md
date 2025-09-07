@@ -27,7 +27,7 @@ A **frontend-only Amazon Clone** built with React.js that mimics Amazon's UI, pr
 ---
 
 
-ll
+
 
 
 🖥️ Usage
@@ -37,12 +37,12 @@ Browse products and view details
 Add/remove items in the cart
 
 Adjust quantities to see cart totals update in real-time
-
+---
 🌐 Live Demo
 
 You can deploy this frontend project using Netlify or Vercel. Example link:
 Live Demo
-
+---
 🤝 Contributing
 
 Contributions are welcome!
